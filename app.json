@@ -1,13 +1,1 @@
-{
-  "name": "hello-world",
-  "scripts": {
-  },
-  "env": {
-  },
-  "addons": [
-    "heroku-postgresql"
-  ],
-  "buildpacks": [
-
-  ]
-}
+git clone https://chromium.googlesource.com/v8/v8
